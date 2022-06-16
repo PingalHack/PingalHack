@@ -13,7 +13,7 @@
 </h3>
 
 <p align="left" dir="auto">
-<a href="https://discord.gg/vfqqAQsqgR" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/d2b9054acf780db7555f11e176ae9972ab37b5592dd6de068e3f826482f1bfee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f646973636f72642e737667" alt="Utku#0795" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" style="max-width: 100%;"></a>
+<a href="https://discord.gg/Z5meZJyapJ" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/d2b9054acf780db7555f11e176ae9972ab37b5592dd6de068e3f826482f1bfee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f646973636f72642e737667" alt="Utku#0795" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" style="max-width: 100%;"></a>
 </p>
 
 
