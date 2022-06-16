@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://camo.githubusercontent.com/721e1fe02205a3a97d18ee6b392d08d2927a7252628b297fbd7721a47a6897e5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d55746b75313131342673686f775f69636f6e733d74727565267468656d653d6461726b26686964655f626f726465723d74727565266c6f63616c653d656e" alt="Blackjack" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Utku1114&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;locale=en" style="max-width: 100%;">
+<img align="center" src="https://camo.githubusercontent.com/721e1fe02205a3a97d18ee6b392d08d2927a7252628b297fbd7721a47a6897e5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d55746b75313131342673686f775f69636f6e733d74727565267468656d653d6461726b26686964655f626f726465723d74727565266c6f63616c653d656e" alt="Blackjack" data-canonical-src="https://github-readme-stats.vercel.app/api?username=PingalHack&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;locale=en" style="max-width: 100%;">
 
 <!--
 **PingalHack/PingalHack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
