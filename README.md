@@ -1,21 +1,5 @@
 ### Hi there 👋
 
-<img src="https://camo.githubusercontent.com/602a8946fc6aedda1b58066952d1b106eedf4b3c7acf297ca3cd766cb0a4c488/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d55746b7531313134266c6162656c3d50726f66696c65253230566965777326636f6c6f723d643430306666267374796c653d666c6174" alt="PingalHack" data-canonical-src="https://komarev.com/ghpvc/?username=PingalHack&amp;label=Profile%20Views&amp;color=d400ff&amp;style=flat" style="max-width: 100%;">
-
-<img src="https://camo.githubusercontent.com/01e3e90db9fb2498d2dafe939e20c03c4ab95306a41ad6906d4bb0d62ab7a1e3/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d55746b7531313134267468656d653d6f6e656461726b" alt="PingalHack" data-canonical-src="https://github-profile-trophy.vercel.app/?username=PingalHack&amp;theme=onedark" style="max-width: 100%;">
-
-<a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-
-<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>
-
-</a>
-"Connect With Me:"
-</h3>
-
-<p align="left" dir="auto">
-<a href="https://discord.gg/Z5meZJyapJ" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/d2b9054acf780db7555f11e176ae9972ab37b5592dd6de068e3f826482f1bfee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f646973636f72642e737667" alt="Utku#0795" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" style="max-width: 100%;"></a>
-</p>
-
 
 </a>
 Languages and Tools:
